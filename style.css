@@ -25,6 +25,9 @@
   font-weight: 900;
   color: #365656;
 }
+::placeholder{
+    color:#ffffff;
+}
 .nav-bar
 {
     margin: 0 auto;
